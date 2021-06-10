@@ -666,7 +666,9 @@ p {
 }
 
 .tight-width-whitespace {
+    display: flex;
     max-width: 600px;
+    justify-content: center;
     margin: auto auto auto auto;
 }
 
@@ -688,10 +690,15 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.text-center {
+    display: flex;
+    justify-content: center;
+}
 
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    width: 60%;
 }
 
 h3 {
