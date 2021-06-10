@@ -753,8 +753,10 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
-    padding: 40px 40px 40px 40px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+   
 }
 
 .bold-link {
@@ -790,11 +792,12 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
+    margin: auto;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    font-size: 1.1em;
 }
 
 .ltc-atomic-tangerine {
@@ -832,6 +835,22 @@ h4 {
     background-color: white;
     border-radius: 20px;
 }
+.bgc-2 h2 {
+    margin: auto;
+    width: 100%;
+}
+.bgc-3 {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1.1em;
+    
+}
+ 
+
+
 
 @media (max-width: 1024px) {
     .bloc {
