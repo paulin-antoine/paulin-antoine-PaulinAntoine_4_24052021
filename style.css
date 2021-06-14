@@ -1082,6 +1082,11 @@ h4 {
     .col-sm-6 img {
         width: 100%;
     }
+    .items {
+        max-width: 300px;
+        margin: auto;
+        
+    }
 }
 
 @media (max-width: 400px) {
