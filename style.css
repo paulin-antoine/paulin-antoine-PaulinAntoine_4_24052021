@@ -575,6 +575,7 @@ body {
     }
     .bg-banniere {
     background-image : url("img/la-chouette-agence-banniere.jpg");
+    
     }
     .bg-presentation {
     background-image : url("img/image-de-presentation.jpg");
@@ -616,6 +617,7 @@ body {
         width: 100px;
         height: 100px;
     }
+    
     @media (max-width: 1024px) {
     .bloc {
     padding-left : 20px;
