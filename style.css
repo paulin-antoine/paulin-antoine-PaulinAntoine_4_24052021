@@ -617,6 +617,9 @@ body {
         width: 100px;
         height: 100px;
     }
+    figcaption {
+        color: #303030;
+    }
     
     @media (max-width: 1024px) {
     .bloc {
