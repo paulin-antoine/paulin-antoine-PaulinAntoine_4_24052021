@@ -608,6 +608,14 @@ body {
     .bgc-4 h2 {
     margin : auto;
     }
+    .Banner {
+        width: 214px;
+        height: 40px;
+    }
+    .image-resize-mode {
+        width: 100px;
+        height: 100px;
+    }
     @media (max-width: 1024px) {
     .bloc {
     padding-left : 20px;
