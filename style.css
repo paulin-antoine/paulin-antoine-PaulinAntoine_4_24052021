@@ -142,6 +142,7 @@ a:hover {
 
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
+    visibility: hidden;
 }
 
 .d-bloc .btn-wire,
@@ -951,6 +952,7 @@ h4 {
     .navbar.row {
         margin-left: 0;
         margin-right: 0;
+        visibility: hidden;
     }
     .site-navigation {
         position: inherit;
