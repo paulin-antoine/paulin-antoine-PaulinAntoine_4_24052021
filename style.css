@@ -731,8 +731,8 @@ body {
     box-shadow : none;
     }
     .navbar-brand img {
-    max-height : 40px;
-    width : auto;
+    height : 40px;
+    width : 214px;
     }
     .nav-invert .navbar-header {
     float : none;
